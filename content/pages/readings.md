@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides citations for weekly course readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -86,9 +88,9 @@ Cooperative Models
 {{< tdopen >}}
 Fairbairn, Brett, June Bold, Murray Fulton, Lous Hammond Ketilson, and Daniel Ish. _Co-operatives and Community Development_. Saskatoon, Saskatchewan: Centre for the Study of Cooperatives, University of Saskatchewan, 1991. ISBN: 0888802498.  
   
-Prahalad, C. K., and Allen Hammond. "What Works: Serving the Poor, Profitably." Markle Foundation, 2002. ({{% resource_link "c92e9334-6e9e-4c6c-90bf-0d110ddef9e7" "PDF" %}})  
+Prahalad, C. K., and Allen Hammond. "What Works: Serving the Poor, Profitably." Markle Foundation, 2002. ([PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))  
   
-Denison, Alice, and Alan Wilson. _CLF Ventures: A History_. Boston, MA: {{% resource_link "f39aa7c2-22b4-4179-a55c-3a7874d4ffb7" "CLF" %}}, 2002.  
+Denison, Alice, and Alan Wilson. _CLF Ventures: A History_. Boston, MA: [CLF](http://www.clfventures.org/), 2002.  
   
 MacLeod, Greg. _From Mondragon to America_. Sydney, Nova Scotia: University College of Cape Breton Press, 1997. ISBN: 0920336531.  
   
@@ -126,7 +128,7 @@ Taub, Richard P. _Community Capitalism: The South Shore Bank's Strategy for Neig
   
 Nadeau, and Thompson. "Community Development Credit Unions." Chapter 8 in _Cooperation Works! How people are using cooperative action to rebuild communities and revitalize the economy_. Rochester, MN: Lone Oak Press, LTD, 1996. ISBN: 1883477131.  
   
-NRC. {{% resource_link "f6d5987c-fad5-4dcc-95fb-de62914f6158" "_Credit Union Partnerships with NeighborWorks Organizations: Proven Models for Success_" %}}. Washington, DC, 2003.  
+NRC. [_Credit Union Partnerships with NeighborWorks Organizations: Proven Models for Success_](http://www.issuelab.org/resource/credit_union_partnerships_with_neighborworks_organizations_proven_models_for_success). Washington, DC, 2003.  
   
 Hansmann, Henry. _The Ownership of Enterprise_. Cambridge, MA: Harvard University Press, 1996. Chapters 13, and 14. ISBN: 0674649702.  
   

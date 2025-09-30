@@ -4,6 +4,8 @@ description: Market analysis worksheet for a group-based business development pl
 file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/7472d041857e2bba35fda44bd4aaa9b8_appendix3.pdf
 file_size: 121891
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
