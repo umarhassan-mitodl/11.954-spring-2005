@@ -5,8 +5,6 @@ description: Student prepared business plan for the establishment of a youth-run
 file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/0687514a96663de71d92e0e316868d59_youthtoolkit.pdf
 file_size: 233680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

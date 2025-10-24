@@ -5,8 +5,6 @@ description: This section consists of a list of lecture topics covered in the co
   conducted at MIT in conjunction with Cooperative Development Institute (CDI) CEO
   Lynn Benander, on Coop organization, financing, and management. Videos of these
   workshops are provided.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Workshop Videos
